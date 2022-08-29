@@ -12,3 +12,7 @@ Berikut merupakan hasil praktikum 3 langkah 1. Pada praktikum 3 langkah 1 ini di
 
 Berikut merupakan hasil praktikum 3 langkah 2. Pada praktikum ini akan membuat image widget. Untuk menambahkan image widget maka perlu menambahkan asset logo pada file pubspec.yaml. Berikut merupakan hasil dari menambahkan image widget.
 ![Screenshoot hello_world](images/03.png)
+
+## Praktikum 4
+Langkah 1 - Cupertino Button dan Loading Bar.
+![Screenshoot hello_world](images/04.png)
