@@ -9,3 +9,6 @@ Berikut merupakan hasil praktikum 2. Pada praktikum 2 ini diminta untuk mengubah
 ## Praktikun 3
 Berikut merupakan hasil praktikum 3 langkah 1. Pada praktikum 3 langkah 1 ini diminta untuk mengganti text widget dengan konstruktor MyTextWidget. Untuk menambahkan konstruktor MyTextWidget pada file main.dart perlu melakukan import text_widget.dart 
 ![Screenshoot hello_world](images/02.png)
+
+Berikut merupakan hasil praktikum 3 langkah 2. Pada praktikum ini akan membuat image widget. Untuk menambahkan image widget maka perlu menambahkan asset logo pada file pubspec.yaml. Berikut merupakan hasil dari menambahkan image widget.
+![Screenshoot hello_world](images/03.png)
