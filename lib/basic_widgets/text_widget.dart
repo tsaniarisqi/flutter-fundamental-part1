@@ -6,8 +6,22 @@ class MyTextWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Text(
-      "Nama saya Tsania Risqi El Istiqomah, sedang ikut TSA Mobile Flutter",
-      style: TextStyle(color: Colors.red, fontSize: 14),
-      textAlign: TextAlign.center);
+        "Nama saya Tsania Risqi El Istiqomah, sedang ikut TSA Mobile Flutter",
+        style: TextStyle(color: Colors.red, fontSize: 14),
+        textAlign: TextAlign.center);
+  }
+}
+
+class TextWidget extends StatelessWidget {
+  const TextWidget({
+    Key? key,
+    required this.selectedDate,
+  }) : super(key: key);
+
+  final DateTime selectedDate;
+
+  @override
+  Widget build(BuildContext context) {
+    return Text("${selectedDate.toLocal()}".split(' ')[0]);
   }
 }
