@@ -16,3 +16,6 @@ Berikut merupakan hasil praktikum 3 langkah 2. Pada praktikum ini akan membuat i
 ## Praktikum 4
 Langkah 1 - Cupertino Button dan Loading Bar.
 ![Screenshoot hello_world](images/04.png)
+
+Langkah 2 - Floating Action Button (FAB)
+![Screenshoot hello_world](images/05.png)
